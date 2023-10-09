@@ -15,4 +15,5 @@ p.s. I screen recorded the app on my iPhone.
 
 <br>
 <br>
-https://github-production-user-asset-6210df.s3.amazonaws.com/57190634/273490837-8a46295e-4601-4eb9-9cb0-c71558b58802.gif
+
+![BarcodeScanner_gif](https://github.com/yugandharkhair/SwiftUI-BarcodeScanner/assets/57190634/00f068d2-0a51-4d4b-a5af-1cda1980dceb)
