@@ -14,4 +14,5 @@ Another great app from Sean Allen. Looking forwards to building the next ambitio
 p.s. I screen recorded the app on my iPhone.
 
 <br>
-<br>
+<br>![BarcodeScanner_gif](https://github.com/yugandharkhair/SwiftUI-BarcodeScanner/assets/57190634/8a46295e-4601-4eb9-9cb0-c71558b58802)
+
