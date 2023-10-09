@@ -7,11 +7,11 @@ What I learnt from building this app-
 * AVFoundation (A little bit), How to take camera input in an app.
 * What co-ordinators are and how they work.
 * SwiftUI Delegates.
+* How to run Xcode apps in an actual iPhone.
 <br>
 Another great app from Sean Allen. Looking forwards to building the next ambitious app. Here's how this one looks!
 <br>
 p.s. I screen recorded the app on my iPhone.
 
 <br>
-![BarcodeScanner_gif](https://github.com/yugandharkhair/SwiftUI-BarcodeScanner/assets/57190634/ce6e9b96-5dc5-4f16-a6e2-f45c25297fa0)
-
+<br>![BarcodeScanner_gif](https://github.com/yugandharkhair/SwiftUI-BarcodeScanner/assets/57190634/9e646596-fc5b-4111-97e1-8cad06bcb384)
