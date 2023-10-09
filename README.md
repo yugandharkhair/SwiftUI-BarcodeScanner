@@ -9,12 +9,11 @@ What I learnt from building this app-
 * SwiftUI Delegates.
 
 <br>
-<br>
 Another great app from Sean Allen. Looking forwards to building the next ambitious app. Here's how this one looks!
-<br>
 <br>
 p.s. I screen recorded the app on my iPhone.
 
 <br>
-<br>
+
+
 ![BarcodeScanner_gif](https://github.com/yugandharkhair/SwiftUI-BarcodeScanner/assets/57190634/68d06c1a-acdb-4aa2-bdb4-fd1a9fb4734f)
